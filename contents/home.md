@@ -1,16 +1,17 @@
+目前于清华大学深圳国际研究生院攻读计算机技术硕士学位。
 
+#### 联系方式
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+邮箱：my-chen25@mails.tsinghua.edu.cn
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 教育经历
 
-#### Contact
+2019.9～2020.8　华南理工大学　吴贤铭智能工程学院　机器人工程（4.34%）
 
-Email: user[at]fas.harvard.edu
+2020.9～2023.6　华南理工大学　计算机科学与工程学院　计算机科学与技术　人工智能方向（12.99%）
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2025.7～至今　清华大学　深圳国际研究生院　计算机技术　硕士研究生在读
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+#### 研究兴趣
+
+深度学习，计算机视觉，多模态学习

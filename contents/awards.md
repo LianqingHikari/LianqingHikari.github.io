@@ -1,12 +1,7 @@
+- （国际级）美国大学生数学建模竞赛二等奖，2021.1
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 华南理工大学校二等奖学金（4/78），2021.9
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 华南理工大学校级优秀共青团员，2020.9
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.  1
+- 华南理工大学校一等奖学金（2/46），2020.9

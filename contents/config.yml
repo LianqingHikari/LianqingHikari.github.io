@@ -1,28 +1,35 @@
-title: User Name's Homepage
-page-top-title: User Name
-top-section-bg-text: Computer Science
+title: 陈明奕的个人主页
+page-top-title: 陈明奕
+top-section-bg-text: 计算机技术
 backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
+  - static/assets/background/background_0.jpg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; 陈明奕 2025–2026. 保留所有权利。'
 github-link:
-  text: Github
-  href: https://github.com/senli1073
+  text: 仓库
+  href: https://github.com/LianqingHikari
 license-link:
-  text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  text: 许可证
+  href: https://github.com/LianqingHikari/LianqingHikari.github.io/blob/main/LICENSE
 sections:
   - id: home
-    nav: HOME
-    title: User Name&ensp;|&ensp;姓名
-    href: '#page-top' # Default to '#<id>' if not specified
+    nav: 首页
+    title: 陈明奕
+    href: '#page-top'
+  - id: experience
+    nav: 经历
+    title: 工作经历
+    icon: bi-briefcase-fill
   - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
+    nav: 论文
+    title: 论文发表
     icon: bi-file-text-fill
   - id: awards
-    nav: AWARDS
-    title: AWARDS
+    nav: 获奖
+    title: 获奖经历
     icon: bi-award-fill
+  - id: interests
+    nav: 兴趣
+    title: 特长与兴趣
+    icon: bi-heart-fill
