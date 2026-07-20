@@ -2,5 +2,5 @@
 
 
 
-这是一篇联邦学习、通信约束下的训练优化相关的论文。多么优雅的创新点，可恶😤总是有些审稿人有眼不识泰山，我说的就是IJCBI和MM的审稿人，我宣布MM已经不是A会了😤
+这是一篇联邦学习、通信约束下的训练优化相关的论文。多么优雅的创新点，可恶😤总是有些审稿人有眼不识泰山，我说的就是IJCBI和MM的某些审稿人，我宣布MM已经不是A会了😤
 - Jun Wu\*、**Mingyi Chen\***、Jiajun Niu\*、Gongxi Zhu、Jiangtao Wen、Yuxing Han†. Fed-CT: An Optimized Training Framework for Federated Learning with Communication Constraints. **AAAI 在投**
