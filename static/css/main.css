@@ -225,13 +225,14 @@ section .main-body img {
 .mentor-row {
     display: flex;
     flex-wrap: wrap;
-    gap: 1.5rem 2.5rem;
+    justify-content: flex-start;
+    gap: 1.5rem 5.5rem;
     align-items: flex-start;
     margin-top: 0.5rem;
 }
 
 .mentor-card {
-    flex: 1 1 12rem;
+    flex: 0 1 12rem;
     max-width: 16rem;
     text-align: center;
 }
