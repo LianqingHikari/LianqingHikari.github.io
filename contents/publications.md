@@ -1,1 +1,1 @@
-- Wu Jun\*、**陈明奕\***、Jiajun Niu\*、Gongxi Zhu、Jiangtao Wen、Yuxing Han. Fed-CT: An Optimized Training Framework for Federated Learning with Communication Constraints.
+- Wu Jun\*、**陈明奕\***、Jiajun Niu\*、Gongxi Zhu、Jiangtao Wen、Yuxing Han. Fed-CT: An Optimized Training Framework for Federated Learning with Communication Constraints. **AAAI 在投**

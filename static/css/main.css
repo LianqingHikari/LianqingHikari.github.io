@@ -222,6 +222,35 @@ section .main-body img {
     box-shadow: 0 4px 14px rgba(102, 8, 116, 0.18);
 }
 
+.mentor-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem 2.5rem;
+    align-items: flex-start;
+    margin-top: 0.5rem;
+}
+
+.mentor-card {
+    flex: 1 1 12rem;
+    max-width: 16rem;
+    text-align: center;
+}
+
+.mentor-card p {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+.mentor-card img {
+    display: block;
+    width: 100%;
+    max-width: 180px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 0.35rem;
+    box-shadow: 0 4px 14px rgba(102, 8, 116, 0.18);
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fbf8fc, #ffffff) !important;

@@ -1,13 +1,17 @@
 2023.7.17～2025.6.30　交通银行总行软件开发中心（深圳）　图像组　图像算法工程师
 
-负责图像分类、目标检测、光学字符识别等算法模型与工程的全流程开发，涉及需求对接、架构设计、数据预处理、模型训练、模型测试、模型部署、代码编写、工程测试、运维部署等。
+- 负责组内图像分类、版面分析、图像分割等算法模型的全流程开发，涉及数据预处理，模型训练、转换、部署等
+- 负责组内图像工程的开发，涉及需求分析，架构设计，代码编写，运维投产等。
 
 #### 指导老师
 
-庄家悦（交通银行人工智能算法专家）
-
-![庄家悦](static/assets/mentors/mentor_zhuang.jpg)
-
-刘健文（图像组组长）
-
-![刘健文](static/assets/mentors/mentor_liu.png)
+<div class="mentor-row">
+  <div class="mentor-card">
+    <p>庄家悦（交通银行AI算法专家）</p>
+    <img src="static/assets/mentors/mentor_zhuang.jpg" alt="庄家悦">
+  </div>
+  <div class="mentor-card">
+    <p>刘健文（图像组组长）</p>
+    <img src="static/assets/mentors/mentor_liu.png" alt="刘健文">
+  </div>
+</div>
