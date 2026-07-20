@@ -232,14 +232,24 @@ section .main-body img {
 }
 
 .mentor-card {
-    flex: 0 1 12rem;
-    max-width: 16rem;
+    flex: 0 1 15rem;
+    max-width: 20rem;
     text-align: center;
 }
 
 .mentor-card p {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.35rem;
     line-height: 1.6;
+}
+
+.mentor-card .mentor-name {
+    margin-bottom: 0.15rem;
+}
+
+.mentor-card .mentor-role {
+    white-space: nowrap;
+    font-size: 1.05rem;
+    margin-bottom: 0.75rem;
 }
 
 .mentor-card img {
