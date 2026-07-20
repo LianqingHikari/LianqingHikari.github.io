@@ -7,11 +7,13 @@
 
 <div class="mentor-row">
   <div class="mentor-card">
-    <p>庄家悦（交通银行AI算法专家）</p>
+    <p>庄家悦</p>
+    <p>（交通银行AI算法专家）</p>
     <img src="static/assets/mentors/mentor_zhuang.jpg" alt="庄家悦">
   </div>
   <div class="mentor-card">
-    <p>刘健文（图像组组长）</p>
+    <p>刘健文</p>
+    <p>（图像组组长）</p>
     <img src="static/assets/mentors/mentor_liu.png" alt="刘健文">
   </div>
 </div>
