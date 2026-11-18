@@ -252,6 +252,16 @@ section .main-body img {
     margin-bottom: 0.75rem;
 }
 
+.mentor-card .mentor-role:has(+ .mentor-award) {
+    margin-bottom: 0.15rem;
+}
+
+.mentor-card .mentor-award {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-bottom: 0.75rem;
+}
+
 .mentor-card img {
     display: block;
     width: 100%;

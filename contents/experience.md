@@ -14,6 +14,7 @@
   <div class="mentor-card">
     <p class="mentor-name">刘健文</p>
     <p class="mentor-role">（图像组组长）</p>
+    <p class="mentor-award">第七届长三角金融科技最佳应用奖</p>
     <img src="static/assets/mentors/mentor_liu.png" alt="刘健文">
   </div>
 </div>
